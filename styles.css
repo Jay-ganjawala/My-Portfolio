@@ -108,8 +108,8 @@ nav ul {
 }
 
 .about-image img {
-  border-radius: 8px;
-  max-width: 100px;
+  border-radius: 10px;
+  max-width: 70px;
 }
 
 .about-details {
